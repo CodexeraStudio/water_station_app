@@ -25,3 +25,6 @@ Programming Language,Dart / Kotlin / Swift,Core language used for application lo
 Framework,Flutter / Android Native / React Native,Platform used for building the user interface.
 Location Services,GPS/Location Tracking,Essential for field service and navigation.
 Backend/Database,Custom API / Firebase Firestore,"Used for managing task assignments, inventory (materials/filters), and meter readings."
+
+
+<img width="1504" height="2848" alt="Gemini_Generated_Image_tumg01tumg01tumg" src="https://github.com/user-attachments/assets/e4ed2fa9-5a7e-43ac-92f7-57444e56528f" />
